@@ -1,0 +1,15 @@
+p{
+    color: red;
+    font-size: 20px;
+}
+h{
+    font-size: 40px;
+}
+body{
+    background-color: white;
+}
+
+#hand{
+    width: 700px;
+    height: auto;
+}
